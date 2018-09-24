@@ -28,7 +28,7 @@ public class Deck implements Serializable {
     }
 
     // allows the user to easily edit the title of a card deck within the game.
-    public void setTitle(String newTitle){
+    public void setTitle(String newTitle) {
         this.title = newTitle;
     }
 
