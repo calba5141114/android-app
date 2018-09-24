@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     public double calculateIncome(double money, double[] totalMoney) {
 
         double endOfArrIndex = totalMoney.length + 1;
